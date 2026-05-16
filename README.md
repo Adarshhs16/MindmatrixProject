@@ -1,20 +1,20 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Mindmatrix Project (Akshara Deepa Tutor)
 
-# Run and deploy your AI Studio app
+An advanced Android-based educational platform designed to help students master their syllabus through interactive learning, progress tracking, and quiz-based assessments.
 
-This contains everything you need to run your app locally.
+## 🚀 Features
 
-View your app in AI Studio: https://ai.studio/apps/c93b03e9-fd0a-4cf8-bd13-33653bd7c483
+*   **Interactive Dashboard:** At-a-glance view of learning progress and upcoming goals.
+*   **Comprehensive Syllabus:** Organized learning paths for Mathematics, Science, and Social Studies.
+*   **Smart Quizzes:** Subject-specific assessments with real-time feedback and result analysis.
+*   **Progress Tracking:** Visual representation of strengths and areas for improvement.
+*   **Goal Management:** Set and track educational milestones.
+*   **Offline Support:** Basic data persistence using SharedPreferences for seamless user experience.
 
-## Run Locally
+## 🛠 Tech Stack
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+*   **Language:** Java
+*   **UI Framework:** XML with Material Design 3
+*   **Architecture:** Fragment-based navigation with a Single Activity (MainActivity)
+*   **Navigation:** Android Jetpack Navigation Component
+*   **Data Handling:** JSON-based local data storage for questions and syllabus.
