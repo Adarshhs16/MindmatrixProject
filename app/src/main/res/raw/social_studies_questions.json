@@ -1,0 +1,242 @@
+[
+  {
+    "id": "s1",
+    "text": "Who discovered the sea route to India?",
+    "options": ["Columbus", "Vasco da Gama", "Magellan", "Drake"],
+    "correctIndex": 1,
+    "explanation": "Vasco da Gama discovered the sea route to India in 1498.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "s2",
+    "text": "The battle of Plassey took place in?",
+    "options": ["1764", "1757", "1857", "1942"],
+    "correctIndex": 1,
+    "explanation": "The battle established British rule in India in 1757.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "s3",
+    "text": "Who is known as the Iron Man of India?",
+    "options": ["Nehru", "Gandhi", "Sardar Patel", "Ambedkar"],
+    "correctIndex": 2,
+    "explanation": "Sardar Patel is known for integrating princely states.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "s4",
+    "text": "When did the Jallianwala Bagh incident occur?",
+    "options": ["1919", "1920", "1930", "1942"],
+    "correctIndex": 0,
+    "explanation": "It occurred on April 13, 1919.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "s5",
+    "text": "Which soil is best suited for cotton cultivation?",
+    "options": ["Red soil", "Alluvial soil", "Black soil", "Laterite soil"],
+    "correctIndex": 2,
+    "explanation": "Black soil (Regur soil) is ideal for cotton.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "s6",
+    "text": "Who was the first President of Independent India?",
+    "options": ["Dr. Rajendra Prasad", "Dr. B.R. Ambedkar", "Jawaharlal Nehru", "S. Radhakrishnan"],
+    "correctIndex": 0,
+    "explanation": "Dr. Rajendra Prasad served as the first president.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "s7",
+    "text": "The Silicon Valley of India is?",
+    "options": ["Mumbai", "Pune", "Bengaluru", "Hyderabad"],
+    "correctIndex": 2,
+    "explanation": "Bengaluru is the IT hub of India.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "s8",
+    "text": "When was the Quit India Movement launched?",
+    "options": ["1920", "1930", "1942", "1947"],
+    "correctIndex": 2,
+    "explanation": "Launched in August 1942.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "s9",
+    "text": "Who wrote 'Hind Swaraj'?",
+    "options": ["Nehru", "Gandhi", "Bose", "Patel"],
+    "correctIndex": 1,
+    "explanation": "Mahatma Gandhi wrote it in 1909.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "s10",
+    "text": "French Revolution started in?",
+    "options": ["1776", "1789", "1799", "1815"],
+    "correctIndex": 1,
+    "explanation": "It broke out in 1789.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "s11",
+    "text": "Which of the following is a Kharif crop?",
+    "options": ["Wheat", "Mustard", "Rice", "Gram"],
+    "correctIndex": 2,
+    "explanation": "Rice is grown during the monsoon season (Kharif).",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "s12",
+    "text": "The highest peak in India is?",
+    "options": ["Mount Everest", "Kanchenjunga", "Nanda Devi", "Anamudi"],
+    "correctIndex": 1,
+    "explanation": "Kanchenjunga is the highest peak within Indian borders.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "s13",
+    "text": "Who drafted the Indian Constitution?",
+    "options": ["Gandhi", "Nehru", "Dr. B.R. Ambedkar", "Sardar Patel"],
+    "correctIndex": 2,
+    "explanation": "Dr. Ambedkar was the chairman of the Drafting Committee.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "s14",
+    "text": "What is the minimum age to vote in India?",
+    "options": ["16", "18", "21", "25"],
+    "correctIndex": 1,
+    "explanation": "The 61st Amendment reduced the age from 21 to 18.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "s15",
+    "text": "Which sector contributes most to India's GDP?",
+    "options": ["Agriculture", "Industry", "Services", "Mining"],
+    "correctIndex": 2,
+    "explanation": "The tertiary (service) sector is the largest contributor.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "s16",
+    "text": "Who was the leader of the Salt March?",
+    "options": ["Bhagat Singh", "Mahatma Gandhi", "Subhas Chandra Bose", "Lala Lajpat Rai"],
+    "correctIndex": 1,
+    "explanation": "Gandhi led the Dandi March in 1930 against salt tax.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "s17",
+    "text": "The Sun Temple is located at?",
+    "options": ["Konark", "Madurai", "Hampi", "Khajuraho"],
+    "correctIndex": 0,
+    "explanation": "The famous Sun Temple is in Konark, Odisha.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "s18",
+    "text": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "correctIndex": 1,
+    "explanation": "Mars has a reddish appearance due to iron oxide.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "s19",
+    "text": "What is the capital of France?",
+    "options": ["Berlin", "London", "Rome", "Paris"],
+    "correctIndex": 3,
+    "explanation": "Paris is the capital and largest city of France.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "s20",
+    "text": "Who was the first woman Prime Minister of India?",
+    "options": ["Pratibha Patil", "Indira Gandhi", "Sarojini Naidu", "Sushma Swaraj"],
+    "correctIndex": 1,
+    "explanation": "Indira Gandhi served as PM from 1966-77 and 1980-84.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "s21",
+    "text": "The standard meridian of India passes through?",
+    "options": ["Mirzapur", "Ahmedabad", "Patna", "Bhopal"],
+    "correctIndex": 0,
+    "explanation": "82°30'E passes through Mirzapur (UP).",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "s22",
+    "text": "Which movement was started after the partition of Bengal?",
+    "options": ["Civil Disobedience", "Non-Cooperation", "Swadeshi Movement", "Quit India"],
+    "correctIndex": 2,
+    "explanation": "The Swadeshi movement began in 1905.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "s23",
+    "text": "The largest producer of wheat in the world is?",
+    "options": ["India", "USA", "China", "Russia"],
+    "correctIndex": 2,
+    "explanation": "China is the top producer, followed by India.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "s24",
+    "text": "Fundamental Rights are enshrined in which part of the Constitution?",
+    "options": ["Part I", "Part II", "Part III", "Part IV"],
+    "correctIndex": 2,
+    "explanation": "Part III (Articles 12 to 35) deals with Fundamental Rights.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "s25",
+    "text": "Who said 'Swaraj is my birthright and I shall have it'?",
+    "options": ["Bose", "Tilak", "Lajpat Rai", "Nehru"],
+    "correctIndex": 1,
+    "explanation": "Bal Gangadhar Tilak gave this famous slogan.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "s26",
+    "text": "Which is the longest river in India?",
+    "options": ["Brahmaputra", "Ganga", "Indus", "Godavari"],
+    "correctIndex": 1,
+    "explanation": "The Ganga is the longest river in India (2525 km).",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "s27",
+    "text": "The first World War started in?",
+    "options": ["1912", "1914", "1918", "1939"],
+    "correctIndex": 1,
+    "explanation": "WWI began in 1914 and lasted until 1918.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "s28",
+    "text": "Who is known as the Father of the Nation in India?",
+    "options": ["Subhas Chandra Bose", "Jawaharlal Nehru", "Mahatma Gandhi", "Rabindranath Tagore"],
+    "correctIndex": 2,
+    "explanation": "Mahatma Gandhi is called the Father of the Nation.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "s29",
+    "text": "The project Tiger was launched in which year?",
+    "options": ["1970", "1973", "1980", "1992"],
+    "correctIndex": 1,
+    "explanation": "Launched in April 1973 to protect tigers.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "s30",
+    "text": "Which constitutional amendment is known as the 'Mini Constitution'?",
+    "options": ["42nd Amendment", "44th Amendment", "52nd Amendment", "73rd Amendment"],
+    "correctIndex": 0,
+    "explanation": "The 42nd Amendment (1976) brought extensive changes.",
+    "difficulty": "Hard"
+  }
+]

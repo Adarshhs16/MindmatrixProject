@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Akshara-Deepa Tutor</string>
+    <string name="title_home">Dashboard</string>
+    <string name="title_syllabus">Syllabus</string>
+    <string name="title_quiz">Quizzes</string>
+    <string name="title_strength">Strengths</string>
+    <string name="title_goal">Daily Goal</string>
+</resources>

@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme for night mode. -->
+    <style name="Theme.AksharaDeepa" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#FFB870</item>
+        <item name="colorOnPrimary">#4A2800</item>
+        <item name="colorPrimaryContainer">#693C00</item>
+        <item name="colorOnPrimaryContainer">#FFDCBE</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#E5C1A7</item>
+        <item name="colorOnSecondary">#432E1C</item>
+        <item name="colorSecondaryContainer">#5C4330</item>
+        <item name="colorOnSecondaryContainer">#FFDCC2</item>
+
+        <!-- Background/Surface colors -->
+        <item name="android:windowBackground">#201B17</item>
+        <item name="colorSurface">#201B17</item>
+        <item name="colorOnSurface">#ECE0DA</item>
+        <item name="colorSurfaceVariant">#524439</item>
+        <item name="colorOnSurfaceVariant">#D7C3B5</item>
+        <item name="colorOutline">#9F8D81</item>
+
+        <item name="android:statusBarColor">?attr/colorSurface</item>
+        <item name="android:navigationBarColor">?attr/colorSurface</item>
+    </style>
+</resources>

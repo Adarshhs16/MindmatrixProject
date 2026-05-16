@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warmer Palette (Amber & Warm Earth) -->
+    <color name="md_theme_light_primary">#8B5000</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#FFDCBE</color>
+    <color name="md_theme_light_onPrimaryContainer">#2D1600</color>
+
+    <color name="md_theme_light_secondary">#755B46</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_secondaryContainer">#FFDCC2</color>
+    <color name="md_theme_light_onSecondaryContainer">#2B1909</color>
+
+    <color name="md_theme_light_tertiary">#5D6234</color>
+    <color name="md_theme_light_onTertiary">#FFFFFF</color>
+    <color name="md_theme_light_tertiaryContainer">#E2E7AD</color>
+    <color name="md_theme_light_onTertiaryContainer">#1A1E00</color>
+
+    <color name="md_theme_light_error">#BA1A1A</color>
+    <color name="md_theme_light_onError">#FFFFFF</color>
+
+    <color name="md_theme_light_background">#FFF8F2</color>
+    <color name="md_theme_light_onBackground">#201B17</color>
+    <color name="md_theme_light_surface">#FFF8F2</color>
+    <color name="md_theme_light_onSurface">#201B17</color>
+    <color name="md_theme_light_surfaceVariant">#F4E0D0</color>
+    <color name="md_theme_light_onSurfaceVariant">#524439</color>
+    <color name="md_theme_light_outline">#84746A</color>
+
+    <!-- Specific Subject Tints (Warmer) -->
+    <color name="science_accent">#689F38</color>
+    <color name="math_accent">#C2185B</color>
+    <color name="social_accent">#E65100</color>
+
+    <color name="science_bg">#F1F8E9</color>
+    <color name="math_bg">#FCE4EC</color>
+    <color name="social_bg">#FFF3E0</color>
+
+    <!-- Compatibility & Semantic -->
+    <color name="primary_blue">#8B5000</color>
+    <color name="science_blue">#689F38</color>
+    <color name="math_purple">#C2185B</color>
+    <color name="social_orange">#E65100</color>
+    <color name="success">#388E3C</color>
+    <color name="accent_blue">#FF9800</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="lighter_blue">#FFECB3</color>
+    <color name="background_gray">#F5F5F5</color>
+</resources>

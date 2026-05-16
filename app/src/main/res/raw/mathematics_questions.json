@@ -1,0 +1,242 @@
+[
+  {
+    "id": "m1",
+    "text": "The common difference of the AP: 3, 1, -1, -3... is?",
+    "options": ["2", "-2", "3", "1"],
+    "correctIndex": 1,
+    "explanation": "d = 1 - 3 = -2.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "m2",
+    "text": "The value of sin 30 is?",
+    "options": ["1", "0", "1/2", "√3/2"],
+    "correctIndex": 2,
+    "explanation": "From the trig table, sin 30° = 1/2.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "m3",
+    "text": "Sum of first 10 natural numbers?",
+    "options": ["45", "55", "50", "60"],
+    "correctIndex": 1,
+    "explanation": "Sum = n(n+1)/2 = 10 * 11 / 2 = 55.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "m4",
+    "text": "If HCF(26, 91) = 13, then LCM(26, 91) is?",
+    "options": ["182", "364", "455", "13"],
+    "correctIndex": 0,
+    "explanation": "LCM = (Product of numbers) / HCF = (26*91)/13 = 182.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "m5",
+    "text": "What is the coordinate of origin?",
+    "options": ["(1, 1)", "(0, 0)", "(0, 1)", "(1, 0)"],
+    "correctIndex": 1,
+    "explanation": "The origin is where axes intersect at (0,0).",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "m6",
+    "text": "A quadratic equation has degree?",
+    "options": ["1", "2", "3", "0"],
+    "correctIndex": 1,
+    "explanation": "Quadratic equations have a maximum power of 2.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "m7",
+    "text": "The probability of a sure event is?",
+    "options": ["0", "1", "0.5", "Infinite"],
+    "correctIndex": 1,
+    "explanation": "A sure event always happens, so P = 1.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "m8",
+    "text": "Area of a circle is?",
+    "options": ["2πr", "πr^2", "πd", "2πr^2"],
+    "correctIndex": 1,
+    "explanation": "Area = π * radius^2.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "m9",
+    "text": "Zero of the polynomial p(x) = 2x + 5 is?",
+    "options": ["-5/2", "5/2", "2/5", "-2/5"],
+    "correctIndex": 0,
+    "explanation": "2x + 5 = 0 => x = -5/2.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "m10",
+    "text": "The value of cos 60 is?",
+    "options": ["1", "0", "1/2", "√3/2"],
+    "correctIndex": 2,
+    "explanation": "cos 60° = 1/2.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "m11",
+    "text": "The discriminant of quadratic equation ax^2 + bx + c = 0 is?",
+    "options": ["b^2 - 4ac", "b^2 + 4ac", "4ac - b^2", "√(b^2-4ac)"],
+    "correctIndex": 0,
+    "explanation": "D = b^2 - 4ac determines nature of roots.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "m12",
+    "text": "Value of tan 45 is?",
+    "options": ["0", "1", "1/√3", "√3"],
+    "correctIndex": 1,
+    "explanation": "tan 45° = 1.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "m13",
+    "text": "Distance of point (3, 4) from origin is?",
+    "options": ["3", "4", "5", "7"],
+    "correctIndex": 2,
+    "explanation": "Distance = √(3^2 + 4^2) = √25 = 5.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "m14",
+    "text": "Number of tangents that can be drawn from a point outside the circle is?",
+    "options": ["1", "2", "3", "Infinite"],
+    "correctIndex": 1,
+    "explanation": "Exactly two tangents can be drawn from an external point.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "m15",
+    "text": "The n-th term of an AP is given by?",
+    "options": ["a + nd", "a + (n-1)d", "a + (n+1)d", "2a + (n-1)d"],
+    "correctIndex": 1,
+    "explanation": "an = a + (n-1)d.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "m16",
+    "text": "Surface area of a sphere of radius r is?",
+    "options": ["πr^2", "2πr^2", "3πr^2", "4πr^2"],
+    "correctIndex": 3,
+    "explanation": "Area = 4πr^2.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "m17",
+    "text": "If sin A = 3/4, then cos A is?",
+    "options": ["4/3", "√7/4", "√7/3", "1/4"],
+    "correctIndex": 1,
+    "explanation": "cos^2 A = 1 - sin^2 A = 1 - 9/16 = 7/16 => cos A = √7/4.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "m18",
+    "text": "The mean of first five prime numbers is?",
+    "options": ["5", "5.6", "6", "6.4"],
+    "correctIndex": 1,
+    "explanation": "(2+3+5+7+11)/5 = 28/5 = 5.6.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "m19",
+    "text": "Volume of a cylinder is?",
+    "options": ["πr^2h", "1/3 πr^2h", "2πrh", "4/3 πr^3"],
+    "correctIndex": 0,
+    "explanation": "Volume = base area * height = πr^2h.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "m20",
+    "text": "The point of intersection of less than and more than ogives gives?",
+    "options": ["Mean", "Median", "Mode", "Range"],
+    "correctIndex": 1,
+    "explanation": "The x-coordinate of intersection is the median.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "m21",
+    "text": "A die is thrown once. Probability of getting a prime number is?",
+    "options": ["1/2", "1/3", "1/6", "2/3"],
+    "correctIndex": 0,
+    "explanation": "Primes are 2, 3, 5. So 3/6 = 1/2.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "m22",
+    "text": "Area of a quadrant of a circle of radius r is?",
+    "options": ["πr^2", "1/2 πr^2", "1/4 πr^2", "1/8 πr^2"],
+    "correctIndex": 2,
+    "explanation": "Quadrant is 1/4th of a circle.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "m23",
+    "text": "If the perimeter and area of a circle are numerically equal, then radius is?",
+    "options": ["2 units", "π units", "4 units", "7 units"],
+    "correctIndex": 0,
+    "explanation": "2πr = πr^2 => r = 2.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "m24",
+    "text": "Which of the following is an irrational number?",
+    "options": ["2", "√4", "√3", "0.5"],
+    "correctIndex": 2,
+    "explanation": "√3 cannot be expressed as p/q.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "m25",
+    "text": "The sum of the zeroes of quadratic polynomial x^2 - 2x - 8 is?",
+    "options": ["-2", "2", "-8", "8"],
+    "correctIndex": 1,
+    "explanation": "Sum = -b/a = -(-2)/1 = 2.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "m26",
+    "text": "If P(E) = 0.05, what is the probability of 'not E'?",
+    "options": ["0.05", "0.95", "0.5", "1.05"],
+    "correctIndex": 1,
+    "explanation": "P(not E) = 1 - P(E) = 1 - 0.05 = 0.95.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "m27",
+    "text": "The 10th term of the AP: 2, 7, 12, ... is?",
+    "options": ["45", "47", "50", "52"],
+    "correctIndex": 1,
+    "explanation": "a10 = a + 9d = 2 + 9(5) = 2 + 45 = 47.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "m28",
+    "text": "The distance between points (0, 5) and (-5, 0) is?",
+    "options": ["5", "5√2", "2√5", "10"],
+    "correctIndex": 1,
+    "explanation": "Distance = √((-5-0)^2 + (0-5)^2) = √(25+25) = √50 = 5√2.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "m29",
+    "text": "The volume of a cone of radius r and height h is?",
+    "options": ["πr^2h", "1/3 πr^2h", "2/3 πr^2h", "1/3 πrh^2"],
+    "correctIndex": 1,
+    "explanation": "Volume of cone is 1/3 of volume of cylinder.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "m30",
+    "text": "If a tower 30m high casts a shadow 10√3 m long on the ground, then the angle of elevation of the sun is?",
+    "options": ["30°", "45°", "60°", "90°"],
+    "correctIndex": 2,
+    "explanation": "tan θ = 30 / (10√3) = 3/√3 = √3. So θ = 60°.",
+    "difficulty": "Hard"
+  }
+]

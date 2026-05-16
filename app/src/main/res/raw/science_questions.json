@@ -1,0 +1,242 @@
+[
+  {
+    "id": "sci_001",
+    "text": "What is the chemical formula of Marble?",
+    "options": ["CaCO3", "CaO", "Ca(OH)2", "CaSO4"],
+    "correctIndex": 0,
+    "explanation": "Marble is Calcium Carbonate (CaCO3).",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "sci_002",
+    "text": "Which gas is released when sodium reacts with water?",
+    "options": ["Oxygen", "Hydrogen", "Nitrogen", "Carbon dioxide"],
+    "correctIndex": 1,
+    "explanation": "Sodium reacts with water to release hydrogen gas.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "sci_003",
+    "text": "The SI unit of electric current is?",
+    "options": ["Volt", "Ohm", "Ampere", "Watt"],
+    "correctIndex": 2,
+    "explanation": "Ampere is the unit for current flow.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "sci_004",
+    "text": "Which part of the brain controls balance?",
+    "options": ["Cerebrum", "Cerebellum", "Medulla", "Pons"],
+    "correctIndex": 1,
+    "explanation": "Cerebellum coordinates voluntary movements such as balance.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "sci_005",
+    "text": "The gadget used for producing electric current is?",
+    "options": ["Generator", "Galvanometer", "Ammeter", "Motor"],
+    "correctIndex": 0,
+    "explanation": "Electric generators convert mechanical energy into electrical energy.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "sci_006",
+    "text": "Which acid is present in Tomato?",
+    "options": ["Citric Acid", "Oxalic Acid", "Lactic Acid", "Acetic Acid"],
+    "correctIndex": 1,
+    "explanation": "Oxalic acid is found in tomatoes.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "sci_007",
+    "text": "The pH of human blood is around?",
+    "options": ["6.4", "7.4", "8.4", "9.4"],
+    "correctIndex": 1,
+    "explanation": "Human blood is slightly basic with a pH of ~7.4.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "sci_008",
+    "text": "Common salt is obtained from sea water by the process of?",
+    "options": ["Filtration", "Distillation", "Evaporation", "Sublimation"],
+    "correctIndex": 2,
+    "explanation": "Evaporation leaves salt as a residue.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "sci_009",
+    "text": "The movement of sunflower in accordance with the path of the Sun is due to?",
+    "options": ["Chemotropism", "Phototropism", "Hydrotropism", "Geotropism"],
+    "correctIndex": 1,
+    "explanation": "Phototropism is growth towards light.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "sci_010",
+    "text": "The unit of power of a lens is?",
+    "options": ["Watt", "Dioptre", "Lumen", "Candela"],
+    "correctIndex": 1,
+    "explanation": "Dioptre (D) is the unit of lens power.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "sci_011",
+    "text": "Which metal is liquid at room temperature?",
+    "options": ["Mercury", "Sodium", "Zinc", "Copper"],
+    "correctIndex": 0,
+    "explanation": "Mercury is the only metal that is liquid at standard temperature.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "sci_012",
+    "text": "The focal length of a plane mirror is?",
+    "options": ["Zero", "Infinite", "One", "Negative"],
+    "correctIndex": 1,
+    "explanation": "A plane mirror has an infinite focal length.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "sci_013",
+    "text": "A zig-zag line in the periodic table separates?",
+    "options": ["Gases and Liquids", "Metals and Non-metals", "Halogens and Noble gases", "Solids and Gases"],
+    "correctIndex": 1,
+    "explanation": "The stairstep or zig-zag line separates metals from non-metals.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "sci_014",
+    "text": "The functional unit of kidney is?",
+    "options": ["Neuron", "Nephron", "Alveoli", "Ureter"],
+    "correctIndex": 1,
+    "explanation": "Nephrons filter blood and produce urine.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "sci_015",
+    "text": "Which hormone is known as the emergency hormone?",
+    "options": ["Insulin", "Thyroxine", "Adrenaline", "Estrogen"],
+    "correctIndex": 2,
+    "explanation": "Adrenaline prepares the body for 'fight or flight'.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "sci_016",
+    "text": "The scattering of light by colloidal particles is called?",
+    "options": ["Dispersion", "Reflection", "Tyndall Effect", "Refraction"],
+    "correctIndex": 2,
+    "explanation": "Tyndall effect makes the path of light visible.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "sci_017",
+    "text": "The device used to measure electric potential difference is?",
+    "options": ["Ammeter", "Voltmeter", "Galvanometer", "Ohmmeter"],
+    "correctIndex": 1,
+    "explanation": "Voltmeter measures voltage between two points.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "sci_018",
+    "text": "Which part of the flower develops into fruit?",
+    "options": ["Stigma", "Style", "Ovary", "Ovule"],
+    "correctIndex": 2,
+    "explanation": "The ovary ripens into a fruit after fertilization.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "sci_019",
+    "text": "The mirrors used by dentists to see large images of teeth are?",
+    "options": ["Convex", "Concave", "Plane", "Parabolic"],
+    "correctIndex": 1,
+    "explanation": "Concave mirrors produce enlarged virtual images when close.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "sci_020",
+    "text": "The non-metal which is a good conductor of electricity is?",
+    "options": ["Sulphur", "Iodine", "Graphite", "Phosphorus"],
+    "correctIndex": 2,
+    "explanation": "Graphite (an allotrope of carbon) conducts electricity.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "sci_021",
+    "text": "In a synapse, chemical signal is transmitted from?",
+    "options": ["Axon to cell body", "Dendrite to axon", "Axon to dendrite", "Cell body to axon"],
+    "correctIndex": 2,
+    "explanation": "Neurotransmitters travel from the axon terminal to the next dendrite.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "sci_022",
+    "text": "Which of the following is a plant hormone?",
+    "options": ["Insulin", "Thyroxine", "Oestrogen", "Cytokinin"],
+    "correctIndex": 3,
+    "explanation": "Cytokinins promote cell division in plants.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "sci_023",
+    "text": "The breakdown of pyruvate to give carbon dioxide, water and energy takes place in?",
+    "options": ["Cytoplasm", "Mitochondria", "Chloroplast", "Nucleus"],
+    "correctIndex": 1,
+    "explanation": "Aerobic respiration occurs in the mitochondria.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "sci_024",
+    "text": "The ability of an eye to focus on both near and distant objects is?",
+    "options": ["Presbyopia", "Accommodation", "Near-sightedness", "Far-sightedness"],
+    "correctIndex": 1,
+    "explanation": "Power of accommodation is adjusted by ciliary muscles.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "sci_025",
+    "text": "An example of a homologous organ is?",
+    "options": ["Our arm and dog's fore-leg", "Our teeth and elephant's tusks", "Potato and runners of grass", "All of the above"],
+    "correctIndex": 3,
+    "explanation": "Homologous organs have same origin but different functions.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "sci_026",
+    "text": "The image formed by a concave mirror is observed to be virtual, erect and larger than the object. Where should be the position of the object?",
+    "options": ["At the principal focus", "At the centre of curvature", "Beyond the centre of curvature", "Between the pole and principal focus"],
+    "correctIndex": 3,
+    "explanation": "When object is very close to concave mirror, it forms a virtual image.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "sci_027",
+    "text": "A solution reacts with crushed egg-shells to give a gas that turns lime-water milky. The solution contains?",
+    "options": ["NaCl", "HCl", "LiCl", "KCl"],
+    "correctIndex": 1,
+    "explanation": "HCl reacts with CaCO3 (egg shells) to produce CO2.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "sci_028",
+    "text": "Which of the following is not an example of a bio-mass energy source?",
+    "options": ["Wood", "Gobar-gas", "Nuclear energy", "Coal"],
+    "correctIndex": 2,
+    "explanation": "Nuclear energy is obtained from fission/fusion, not bio-mass.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "sci_029",
+    "text": "Ozone layer protects us from?",
+    "options": ["UV rays", "X-rays", "Infrared rays", "Gamma rays"],
+    "correctIndex": 0,
+    "explanation": "Ozone (O3) absorbs harmful ultraviolet radiation.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "sci_030",
+    "text": "In an ecosystem, the 10% of energy available for transfer from one trophic level to the next is in the form of?",
+    "options": ["Heat energy", "Light energy", "Chemical energy", "Mechanical energy"],
+    "correctIndex": 2,
+    "explanation": "Energy is stored as chemical bonds in food.",
+    "difficulty": "Hard"
+  }
+]

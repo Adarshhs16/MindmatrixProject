@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.aksharadeepa.fragments.DashboardFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_dashboard" />
+
+    <fragment
+        android:id="@+id/navigation_syllabus"
+        android:name="com.example.aksharadeepa.fragments.SyllabusFragment"
+        android:label="@string/title_syllabus"
+        tools:layout="@layout/fragment_syllabus" />
+
+    <fragment
+        android:id="@+id/navigation_quiz"
+        android:name="com.example.aksharadeepa.fragments.QuizFragment"
+        android:label="@string/title_quiz"
+        tools:layout="@layout/fragment_quiz" />
+
+    <fragment
+        android:id="@+id/navigation_strength"
+        android:name="com.example.aksharadeepa.fragments.StrengthFragment"
+        android:label="@string/title_strength"
+        tools:layout="@layout/fragment_strength" />
+
+    <fragment
+        android:id="@+id/navigation_goal"
+        android:name="com.example.aksharadeepa.fragments.GoalFragment"
+        android:label="@string/title_goal"
+        tools:layout="@layout/fragment_goal" />
+</navigation>

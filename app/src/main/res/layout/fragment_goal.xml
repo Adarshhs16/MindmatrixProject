@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/padding_large"
+    android:gravity="center_horizontal"
+    android:background="?attr/colorSurface">
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        app:cardCornerRadius="60dp"
+        app:cardElevation="0dp"
+        app:cardBackgroundColor="?attr/colorPrimaryContainer"
+        android:layout_marginBottom="@dimen/margin_extra_large">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@android:drawable/ic_menu_edit"
+            app:tint="?attr/colorPrimary"
+            android:padding="24dp"/>
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/streakCard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="12dp"
+        app:cardElevation="0dp"
+        app:cardBackgroundColor="?attr/colorTertiaryContainer"
+        android:layout_marginBottom="@dimen/margin_medium"
+        android:visibility="gone">
+        <TextView
+            android:id="@+id/streakText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="You're on a 5-day streak! 🚀"
+            android:gravity="center"
+            android:padding="@dimen/padding_medium"
+            android:textColor="?attr/colorOnTertiaryContainer"
+            android:textStyle="bold"/>
+    </com.google.android.material.card.MaterialCardView>
+
+    <TextView
+        android:id="@+id/currentGoalText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Current Goal: 0 chapters/day"
+        android:textSize="@dimen/text_size_h3"
+        android:textStyle="bold"
+        android:textColor="?attr/colorOnSurface"
+        android:layout_marginBottom="@dimen/margin_small"/>
+
+    <TextView
+        android:id="@+id/goalProgressText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Today's Progress: 0/0"
+        android:textSize="@dimen/text_size_body"
+        android:textColor="?attr/colorPrimary"
+        android:layout_marginBottom="@dimen/margin_large"/>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Set new chapter goal"
+        style="@style/Widget.Material3.TextInputLayout.OutlinedBox"
+        android:layout_marginBottom="@dimen/margin_medium">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/goalInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:padding="16dp"/>
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/saveGoalButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Update Goal"
+        style="@style/Widget.Material3.Button"
+        android:padding="12dp"
+        app:cornerRadius="12dp"/>
+
+</LinearLayout>

@@ -1,0 +1,28 @@
+# Android/Gradle specific
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+
+# Internal Gradle/IDE folders found in root
+caches/
+daemon/
+native/
+android/
+wrapper/
+.tmp/
+
+# Node/Web
+node_modules/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
